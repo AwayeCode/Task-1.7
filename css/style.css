@@ -1,0 +1,16 @@
+.button-class {
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+     font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid 4caf50;
+    }
+    
+    .list{
+        list-style: none;
+    }
